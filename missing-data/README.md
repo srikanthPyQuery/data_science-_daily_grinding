@@ -1,7 +1,7 @@
 # Missing Data Handling (MCAR)
 
 This folder contains both **theory and practice** for handling
-MCAR missing values in income data.
+MCAR missing values in income feature of Sample dataset.
 
 ## Files
 - 📓 [Notebook](Handling_MCAR.ipynb)
