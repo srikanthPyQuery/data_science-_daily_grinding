@@ -5,4 +5,4 @@ MCAR missing values in income data.
 
 ## Files
 - 📓 [Notebook](Handling_MCAR.ipynb)
-- 📄 [Analysis](missing_value_imputation_analysis.md)
+- 📄 [Analysis](MCAR_imputation_analysis.md)
