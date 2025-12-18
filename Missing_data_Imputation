@@ -8,11 +8,11 @@ Evaluation metrics: Mean and Median after imputation
 Results Summary
 Method	Mean after Imputation	Median after Imputation	Stability Observation
 Original Income	62006.55	66576.00	Baseline distribution
-Mean Imputation	62006.55	62006.55	Median collapses to mean ❌
-Median Imputation	62691.97	66576.00	Median preserved ✅
-Random Sampling	65503.27	70932.00	Large shift, unstable ❌
-SimpleImputer (mean)	62006.55	62006.55	Same as mean imputation ❌
-SimpleImputer (median)	62691.97	66576.00	Same as median imputation ✅
+Mean Imputation	62006.55	62006.55	Median collapses to mean 
+Median Imputation	62691.97	66576.00	Median preserved 
+Random Sampling	65503.27	70932.00	Large shift, unstable 
+SimpleImputer (mean)	62006.55	62006.55	Same as mean imputation 
+SimpleImputer (median)	62691.97	66576.00	Same as median imputation 
 Interpretation
 Mean Imputation
 Preserves the mean but distorts the median.
