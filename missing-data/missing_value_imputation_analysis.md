@@ -1,4 +1,7 @@
-﻿# Handling Missing Vlaues of MCAR type and Stability Analysis
+> 📓 **Companion Notebook**  
+> [View Jupyter Notebook](Handling_MCAR.ipynb)
+
+ # Handling Missing Vlaues of MCAR type and Stability Analysis
 
 This document summarizes the comparison of multiple **MCAR-compatible imputation techniques** applied to a randomly sampled **Income** dataset containing missing values. The goal is to identify the **most stable and usable imputation method** based on distribution preservation.
 
@@ -73,6 +76,7 @@ This document summarizes the comparison of multiple **MCAR-compatible imputation
 - Always validate impact using distribution plots (KDE/boxplots) and cross-validation.
 
 ---
+
 
 
 
